@@ -1,10 +1,6 @@
-# Linux-Privilege-Escalation (Part 1)
+**Weak File Permissions**
 
-Here we talk about how to escalate privileges in Linux machines 
-
-1. Weak File Permissions
-
-   <img width="1080" height="469" alt="image" src="https://github.com/user-attachments/assets/7fc91d00-8007-4247-bb54-73e97d901f1e" />
+<img width="1080" height="469" alt="image" src="https://github.com/user-attachments/assets/7fc91d00-8007-4247-bb54-73e97d901f1e" />
 
 We will talk about 3 files here.
 
